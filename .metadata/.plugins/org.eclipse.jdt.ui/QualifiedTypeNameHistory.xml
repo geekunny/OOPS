@@ -1,10 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="seventeen.july.PassByRef"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="seventeen.july.ThisExample"/>
     <fullyQualifiedTypeName name="seventeen.july.MeanigfullTostring"/>
     <fullyQualifiedTypeName name="two.march.DemoClass"/>
     <fullyQualifiedTypeName name="two.march.StaticInit"/>
+    <fullyQualifiedTypeName name="three.march.Outer.Inner"/>
+    <fullyQualifiedTypeName name="three.march.Outer.Inner2"/>
+    <fullyQualifiedTypeName name="three.march.Outer"/>
+    <fullyQualifiedTypeName name="sixteen.march.CovariantReturnType"/>
+    <fullyQualifiedTypeName name="java.lang.Object"/>
+    <fullyQualifiedTypeName name="sixteen.march.Contract"/>
+    <fullyQualifiedTypeName name="sixteen.march.SignIn"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="sixteen.march.NetflixCore.Netflix"/>
+    <fullyQualifiedTypeName name="sixteen.march.NetflixCore.NetflixUK"/>
+    <fullyQualifiedTypeName name="sixteen.march.NetflixCore.NetflixIndia"/>
+    <fullyQualifiedTypeName name="sixteen.march.NetflixCore.NetflixAllAccess"/>
+    <fullyQualifiedTypeName name="sixteen.march.NetflixCore.NetflixEurope"/>
+    <fullyQualifiedTypeName name="java.lang.Cloneable"/>
+    <fullyQualifiedTypeName name="seventeen.march.clone.Employee"/>
+    <fullyQualifiedTypeName name="nineteen.march.Par.Parent"/>
+    <fullyQualifiedTypeName name="seventeen.march.clone.Department"/>
+    <fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
+    <fullyQualifiedTypeName name="java.lang.IllegalAccessError"/>
+    <fullyQualifiedTypeName name="java.lang.IllegalAccessException"/>
+    <fullyQualifiedTypeName name="javax.management.RuntimeErrorException"/>
+    <fullyQualifiedTypeName name="java.lang.RuntimeException"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="twentyfour.march.MyException"/>
 </qualifiedTypeNameHistroy>

@@ -1,4 +1,4 @@
-package sixteen.july;
+package sixteen.feb;
 
 import java.util.Scanner;
 

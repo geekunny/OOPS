@@ -1,4 +1,4 @@
-package seventeen.july;
+package seventeen.feb;
 
 public class ThisExample {
 	public ThisExample() {

@@ -1,4 +1,4 @@
-package seventeen.july;
+package seventeen.feb;
 //Meaningfull toString
 public class MeanigfullTostring {
 	Integer a,b;
