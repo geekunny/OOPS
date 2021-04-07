@@ -12,7 +12,6 @@
     <fullyQualifiedTypeName name="java.lang.Object"/>
     <fullyQualifiedTypeName name="sixteen.march.Contract"/>
     <fullyQualifiedTypeName name="sixteen.march.SignIn"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="sixteen.march.NetflixCore.Netflix"/>
     <fullyQualifiedTypeName name="sixteen.march.NetflixCore.NetflixUK"/>
     <fullyQualifiedTypeName name="sixteen.march.NetflixCore.NetflixIndia"/>
@@ -22,8 +21,6 @@
     <fullyQualifiedTypeName name="seventeen.march.clone.Employee"/>
     <fullyQualifiedTypeName name="nineteen.march.Par.Parent"/>
     <fullyQualifiedTypeName name="seventeen.march.clone.Department"/>
-    <fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
-    <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
     <fullyQualifiedTypeName name="java.lang.IllegalAccessError"/>
     <fullyQualifiedTypeName name="java.lang.IllegalAccessException"/>
     <fullyQualifiedTypeName name="javax.management.RuntimeErrorException"/>
@@ -37,4 +34,15 @@
     <fullyQualifiedTypeName name="com.r177219086.q2.MyClass"/>
     <fullyQualifiedTypeName name="com.r177219086.q3.Area"/>
     <fullyQualifiedTypeName name="com.r177219086.q3.Parameter"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="java.lang.NullPointerException"/>
+    <fullyQualifiedTypeName name="org.graalvm.compiler.hotspot.stubs.DivisionByZeroExceptionStub"/>
+    <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
+    <fullyQualifiedTypeName name="com.r177219086.q3.NonNumericException"/>
+    <fullyQualifiedTypeName name="java.lang.NumberFormatException"/>
+    <fullyQualifiedTypeName name="com.r177219086.q5.Name"/>
+    <fullyQualifiedTypeName name="com.r177219086.q5.AgeException"/>
+    <fullyQualifiedTypeName name="com.r177219086.q5.Employee"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
 </qualifiedTypeNameHistroy>
