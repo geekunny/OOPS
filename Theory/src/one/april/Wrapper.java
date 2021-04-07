@@ -8,6 +8,8 @@ public class Wrapper {
 		Integer b=new Integer(5);
 		System.out.println(b.BYTES);
 		System.out.println(Integer.max(a, b));
+		Integer c=new Integer(a); //Wrapping
+		int d=c.intValue(); //Unwrapping
 		
 		String str1="UPES"; //Object //Immutable in the memory / constant
 		String str2="UPES"; //Object //Hence it will point to the same memory location as str1
