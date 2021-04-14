@@ -1,6 +1,6 @@
 package com.r177219086.q5;
 
-public class Conerter1 {
+public class Converter1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
