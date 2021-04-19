@@ -29,6 +29,7 @@ public class PriorityCheck extends Thread{
 			System.out.println("Thread-4 alive");
 		if (t5.isAlive())
 			System.out.println("Thread-5 alive");
+		
 	}
 
 }

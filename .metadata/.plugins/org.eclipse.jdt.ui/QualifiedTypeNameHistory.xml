@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="seventeen.july.PassByRef"/>
-    <fullyQualifiedTypeName name="seventeen.july.ThisExample"/>
     <fullyQualifiedTypeName name="seventeen.july.MeanigfullTostring"/>
     <fullyQualifiedTypeName name="two.march.DemoClass"/>
     <fullyQualifiedTypeName name="two.march.StaticInit"/>
@@ -59,5 +57,7 @@
     <fullyQualifiedTypeName name="assignment.three.MyThread3"/>
     <fullyQualifiedTypeName name="assignment.three.Resource"/>
     <fullyQualifiedTypeName name="java.lang.Runnable"/>
+    <fullyQualifiedTypeName name="com.r177219086.q2.OddEven"/>
+    <fullyQualifiedTypeName name="com.r177219086.q3.IncreaseCounter"/>
     <fullyQualifiedTypeName name="java.lang.Thread"/>
 </qualifiedTypeNameHistroy>
