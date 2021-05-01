@@ -6,7 +6,7 @@ public class Test {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		ArrayList list= new ArrayList();
+		ArrayList list= new ArrayList();    //List - Ordered, Duplicate, Unsorted
 		String temp="Milk";
 		list.add(temp); //0
 		list.add("Bread"); //1
